@@ -5,7 +5,7 @@
 <Name>Settings</Name>
 <NumElts>2</NumElts>
 <Cluster>
-<Name>Hardware Configuration</Name>
+<Name>IO</Name>
 <NumElts>2</NumElts>
 <String>
 <Name>HW Refnum &lt;Replace Me&gt;</Name>
@@ -19,7 +19,7 @@
 </EW>
 </Cluster>
 <Cluster>
-<Name>Logging Configuration</Name>
+<Name>Log</Name>
 <NumElts>2</NumElts>
 <Path>
 <Name>Log File Base Path</Name>
