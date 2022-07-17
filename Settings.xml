@@ -23,7 +23,7 @@
 <NumElts>4</NumElts>
 <Path>
 <Name>Path</Name>
-<Val>C:\Users\joefr\Documents\LabVIEW Data\Logged Data.tdms</Val>
+<Val>C:\Users\joefr\Documents\LabVIEW Data\newlog.csv</Val>
 </Path>
 <Refnum>
 <Name>TDMS</Name>
@@ -37,7 +37,7 @@
 </Refnum>
 <Boolean>
 <Name>Append</Name>
-<Val>0</Val>
+<Val>1</Val>
 </Boolean>
 </Cluster>
 </Cluster>
