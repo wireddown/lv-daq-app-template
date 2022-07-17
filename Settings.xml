@@ -20,16 +20,25 @@
 </Cluster>
 <Cluster>
 <Name>Log</Name>
-<NumElts>2</NumElts>
+<NumElts>4</NumElts>
 <Path>
-<Name>Log File Base Path</Name>
+<Name>Path</Name>
 <Val>C:\Users\joefr\Documents\LabVIEW Data\Logged Data.tdms</Val>
 </Path>
 <Refnum>
-<Name>TDMS File Reference</Name>
+<Name>TDMS</Name>
 <RefKind>TDMS File</RefKind>
 <Val>0x00000000</Val>
 </Refnum>
+<Refnum>
+<Name>Spreadsheet</Name>
+<RefKind>Byte Stream File</RefKind>
+<Val>0x00000000</Val>
+</Refnum>
+<Boolean>
+<Name>Append</Name>
+<Val>0</Val>
+</Boolean>
 </Cluster>
 </Cluster>
 </LVData>
