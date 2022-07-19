@@ -3,7 +3,7 @@
 <Version>21.0.1f2</Version>
 <Cluster>
 <Name>Settings</Name>
-<NumElts>2</NumElts>
+<NumElts>3</NumElts>
 <Cluster>
 <Name>IO</Name>
 <NumElts>2</NumElts>
@@ -23,7 +23,7 @@
 <NumElts>4</NumElts>
 <Path>
 <Name>Path</Name>
-<Val>C:\Users\joefr\Documents\LabVIEW Data\newlog.csv</Val>
+<Val>C:\Users\joefr\Documents\LabVIEW Data\Logged Data.tdms</Val>
 </Path>
 <Refnum>
 <Name>TDMS</Name>
@@ -37,8 +37,17 @@
 </Refnum>
 <Boolean>
 <Name>Append</Name>
-<Val>1</Val>
+<Val>0</Val>
 </Boolean>
+</Cluster>
+<Cluster>
+<Name>Debug</Name>
+<NumElts>1</NumElts>
+<Refnum>
+<Name>Messages</Name>
+<RefKind>Byte Stream File</RefKind>
+<Val>0x00000000</Val>
+</Refnum>
 </Cluster>
 </Cluster>
 </LVData>

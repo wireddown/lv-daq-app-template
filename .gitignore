@@ -1,3 +1,6 @@
 # Local LabVIEW metadata files
 *.lvlps
 *.aliases
+
+# Project files
+daq_diagnostics_log.txt
