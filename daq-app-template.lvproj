@@ -36,6 +36,7 @@
 			<Item Name="Check Loop Error.vi" Type="VI" URL="../support/Check Loop Error.vi"/>
 			<Item Name="Error Handler - Event Handling Loop.vi" Type="VI" URL="../support/Error Handler - Event Handling Loop.vi"/>
 			<Item Name="Error Handler - Message Handling Loop.vi" Type="VI" URL="../support/Error Handler - Message Handling Loop.vi"/>
+			<Item Name="Set Visible State on Multiple Controls.vi" Type="VI" URL="../support/Set Visible State on Multiple Controls.vi"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="Acquired Data.ctl" Type="VI" URL="../controls/Acquired Data.ctl"/>
