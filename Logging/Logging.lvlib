@@ -16,9 +16,9 @@
 		<Item Name="Configure Spreadsheet File.vi" Type="VI" URL="../Configure Spreadsheet File.vi"/>
 		<Item Name="Create Spreadsheet Header.vi" Type="VI" URL="../Create Spreadsheet Header.vi"/>
 		<Item Name="Write Spreadsheet Message.vi" Type="VI" URL="../Write Spreadsheet Message.vi"/>
+		<Item Name="Flush Data to Log File.vi" Type="VI" URL="../Flush Data to Log File.vi"/>
 	</Item>
 	<Item Name="Logging Message Loop.vi" Type="VI" URL="../Logging Message Loop.vi"/>
 	<Item Name="Log Data.vi" Type="VI" URL="../Log Data.vi"/>
-	<Item Name="Flush Data to Log File.vi" Type="VI" URL="../Flush Data to Log File.vi"/>
 	<Item Name="Error Handler - Logging Message Loop.vi" Type="VI" URL="../Error Handler - Logging Message Loop.vi"/>
 </Library>
