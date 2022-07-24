@@ -17,6 +17,7 @@
 		<Item Name="Create Spreadsheet Header.vi" Type="VI" URL="../Create Spreadsheet Header.vi"/>
 		<Item Name="Write Spreadsheet Message.vi" Type="VI" URL="../Write Spreadsheet Message.vi"/>
 		<Item Name="Flush Data to Log File.vi" Type="VI" URL="../Flush Data to Log File.vi"/>
+		<Item Name="Default CSV Path.vi" Type="VI" URL="../Default CSV Path.vi"/>
 	</Item>
 	<Item Name="Logging Message Loop.vi" Type="VI" URL="../Logging Message Loop.vi"/>
 	<Item Name="Log Data.vi" Type="VI" URL="../Log Data.vi"/>

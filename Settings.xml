@@ -6,7 +6,7 @@
 <NumElts>3</NumElts>
 <Cluster>
 <Name>IO</Name>
-<NumElts>2</NumElts>
+<NumElts>4</NumElts>
 <String>
 <Name>HW Refnum &lt;Replace Me&gt;</Name>
 <Val></Val>
@@ -17,13 +17,53 @@
 <Choice>Square with Noise</Choice>
 <Val>0</Val>
 </EW>
+<Array>
+<Name>Sensor Intervals</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>Repeat Interval</Name>
+<NumElts>2</NumElts>
+<EW>
+<Name>Interval</Name>
+<Choice>Manual control</Choice>
+<Choice>1 second</Choice>
+<Choice>10 seconds</Choice>
+<Choice>30 seconds</Choice>
+<Choice>60 seconds</Choice>
+<Choice>600 seconds</Choice>
+<Choice>1200 seconds</Choice>
+<Choice>3600 seconds</Choice>
+<Val>0</Val>
+</EW>
+<I32>
+<Name>Count</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+</Array>
+<Cluster>
+<Name>Sensor Token</Name>
+<NumElts>3</NumElts>
+<U32>
+<Name>Next reading in ms</Name>
+<Val>0</Val>
+</U32>
+<I32>
+<Name>Interval Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Interval Occurrence</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
 </Cluster>
 <Cluster>
 <Name>Log</Name>
 <NumElts>4</NumElts>
 <Path>
 <Name>Path</Name>
-<Val>C:\Users\joefr\Documents\LabVIEW Data\Logged Data.tdms</Val>
+<Val>C:\dev\mux\git\github\lv-daq-app-template\data_log.csv</Val>
 </Path>
 <Refnum>
 <Name>TDMS</Name>
