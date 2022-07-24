@@ -33,11 +33,11 @@
 <Choice>600 seconds</Choice>
 <Choice>1200 seconds</Choice>
 <Choice>3600 seconds</Choice>
-<Val>1</Val>
+<Val>0</Val>
 </EW>
 <I32>
 <Name>Count</Name>
-<Val>10</Val>
+<Val>1</Val>
 </I32>
 </Cluster>
 </Array>
