@@ -42,6 +42,7 @@
 			<Item Name="Acquired Data.ctl" Type="VI" URL="../controls/Acquired Data.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 			<Item Name="UI State.ctl" Type="VI" URL="../controls/UI State.ctl"/>
+			<Item Name="Acquisition Status.ctl" Type="VI" URL="../controls/Acquisition Status.ctl"/>
 		</Item>
 		<Item Name="Diagnostics.lvlib" Type="Library" URL="../Diagnostics/Diagnostics.lvlib"/>
 		<Item Name="Interval Timer.lvlib" Type="Library" URL="../Interval Timer/Interval Timer.lvlib"/>
