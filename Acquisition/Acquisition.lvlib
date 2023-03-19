@@ -12,6 +12,8 @@
 		<Item Name="Acquisition State.ctl" Type="VI" URL="../Acquisition State.ctl"/>
 		<Item Name="Hardware Configuration.ctl" Type="VI" URL="../Hardware Configuration.ctl"/>
 		<Item Name="Signal Type.ctl" Type="VI" URL="../Signal Type.ctl"/>
+		<Item Name="Channel Settings.ctl" Type="VI" URL="../Channel Settings.ctl"/>
+		<Item Name="IO Device.ctl" Type="VI" URL="../IO Device.ctl"/>
 	</Item>
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
 	<Item Name="Acquire.vi" Type="VI" URL="../Acquire.vi"/>
