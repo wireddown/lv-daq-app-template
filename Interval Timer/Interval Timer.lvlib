@@ -13,8 +13,10 @@
 		<Item Name="Maximum Interval.vi" Type="VI" URL="../Maximum Interval.vi"/>
 		<Item Name="Milliseconds for Interval.vi" Type="VI" URL="../Milliseconds for Interval.vi"/>
 		<Item Name="Repeat Interval.ctl" Type="VI" URL="../Repeat Interval.ctl"/>
+		<Item Name="Test Elapsed Time.vi" Type="VI" URL="../Test Elapsed Time.vi"/>
 		<Item Name="Test Next Interval.vi" Type="VI" URL="../Test Next Interval.vi"/>
 	</Item>
 	<Item Name="Did Interval Ellapse.vi" Type="VI" URL="../Did Interval Ellapse.vi"/>
+	<Item Name="Elapsed Time.vi" Type="VI" URL="../Elapsed Time.vi"/>
 	<Item Name="Next Interval.vi" Type="VI" URL="../Next Interval.vi"/>
 </Library>
