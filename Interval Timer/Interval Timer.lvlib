@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="21008000">
+	<Property Name="NI.Lib.Description" Type="Str">This library holds VIs and typedefs to build and track a sequence of intervals for software-timed actions.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+/!!!*Q(C=\:5R&lt;FJ"%):`IB3/5B&amp;@Q#*(G#NQ"4C!)UX$!7ANO;'QZ+3=,J9\&lt;I#YQFS"+V!`)&gt;$,N]P'QL%FGFB*Y6HGM@ST/`/^@@M7K&gt;K&amp;^&amp;(^/6NB(&gt;^&gt;[:RI2[P^@E_W@?X6R0XK@F&lt;NPM&lt;\$EHK3H=XH5ZX`7LWN&gt;KMR,MSOUT=&gt;W8!DP#T?-VZP*1+*@R+P0]&gt;V[PRRL6KQV\5V\&amp;_,`DUH+`SK`&amp;0C`VR@[@X`X*^TJD?\&gt;X_L&gt;W=X;2PPG=(Z1XGV?U4$^RRKW^VH_C*HOC*HOC*(OC"(OC"(OC"\OC/\OC/\OC/&lt;OC'&lt;OC'&lt;OB74J&lt;3U)5O&gt;&amp;E^&lt;:,C3;%E;:)A'1S+EEP#E`!E0!E00Z8Q*$Q*4]+4]$"%#5`#E`!E0!E0UZ4Q*$Q*4]+4]*#KEG2N[0!E0+28Q"0Q"$Q"4]"$315]!5"1,%A=*!&amp;$14$I"$Q"4]"$6Q&amp;0Q"0Q"$Q"$W%&amp;0!&amp;0Q"0Q"$R-K;M3F;9U&gt;(B))Y@(Y8&amp;Y("[(B^2S?"Q?B]@B=8AI*Y@(Y8%AH)*/=B$E4()'/$]=(I?(,TE]$I`$Y`!Y0)4K%`+[-I7G.(2Y$"[$R_!R?!Q?5MDA-8A-(I0(Y#'N$"[$R_!R?!Q?3MHA-8A-(A0%+%JZ'=G-C=9A1T"Y_.4&gt;9P5J237RWK3W?&gt;5WJ&gt;JG5^N%;JN$\;'L05SVB[3W_'K,KL:9;IOA&gt;H.KU'IQ;E85*J?"WH,&gt;Y'N]C3`Q/4\"R`A)(Z;J@XHA&gt;LP6:L02?LX7=LH59L(1@$\8:$,2?$T7;$43=$B]/A;O;%](QP&amp;=OLXN"H@8HQ]`PO$$S]0$R?0B9@&amp;Y_0HJ]P!&gt;L@D&gt;NW\Q2P_F`](:K!][T=M;`1)V?.+H!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
