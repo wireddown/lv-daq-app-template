@@ -10,11 +10,12 @@
 
 </Property>
 	<Item Name="support" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Interval Length.ctl" Type="VI" URL="../Interval Length.ctl"/>
 		<Item Name="Interval Token.ctl" Type="VI" URL="../Interval Token.ctl"/>
+		<Item Name="Repeat Interval.ctl" Type="VI" URL="../Repeat Interval.ctl"/>
 		<Item Name="Maximum Interval.vi" Type="VI" URL="../Maximum Interval.vi"/>
 		<Item Name="Milliseconds for Interval.vi" Type="VI" URL="../Milliseconds for Interval.vi"/>
-		<Item Name="Repeat Interval.ctl" Type="VI" URL="../Repeat Interval.ctl"/>
 		<Item Name="Test Elapsed Time.vi" Type="VI" URL="../Test Elapsed Time.vi"/>
 		<Item Name="Test Next Interval.vi" Type="VI" URL="../Test Next Interval.vi"/>
 	</Item>
