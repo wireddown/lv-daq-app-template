@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="21008000">
+	<Property Name="NI.Lib.Description" Type="Str">This library holds VIs and typedefs for saving, loading, and configuring the application's settings.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*F!!!*Q(C=\&gt;5R&lt;BJ"&amp;-&lt;R&lt;[U5,M-.,&amp;L+FS,J5OQ*)H'&amp;6\EH2;2MS28?&amp;&lt;A"YAJ0O1&amp;8I,4=4@YTD#'+)$3REM+T(BO_G8HT9X&gt;:3[X&gt;3_^5&lt;L7HWB9U8C`/\?H9TO.FO^W70Y[@;VZ:8YYO82RH`U5Z$6]9&lt;X-9,;I&lt;8&amp;J@[I27J6T9`VCZ43L8RR@FWO&gt;\E@UW@K0JL&lt;WV@^OGGT@JK^_T1`X?VC^OUI0O&gt;+P@::5E4`)E4`)E4`)A$`)A$`)A$X)H&gt;X)H&gt;X)H&gt;X)D.X)D.X)D.`*WE)N=Z#+(F'S?&lt;*1541IEE[%I_:6Y%E`C34S]6?**0)EH]31?JCDR**\%EXA3$]O5?"*0YEE]C9&gt;34:,N)-?4?#CPQ".Y!E`A#4RMK=!4!),.AM*"%2A+"I-8A3@Q""Z?+P!%HM!4?!)0QQI]A3@Q"*\!QZ*W6K*J[E'/BT*S0)\(]4A?RU.J/2\(YXA=D_.B/TE?R_-AH!W&gt;YB$E,()G/']=D_0BDRS0YX%]DM@R-.3OE,=T5T8V)-&gt;D?!S0Y4%]BI=3-DS'R`!9(M.$72E?QW.Y$)`B93M:(M.D?!S)M3H&lt;SSBG,$1G'9(BY;@&gt;,&gt;;O5D3*N50K.[`[4;F_M[H@2/IXB`J&amp;6\_9[B&gt;*`?3LHV4VE[6_%N1`H$J;(;/_C@LC/F%(@O`J/`K'PK;P[%P[3*`4:X8J8ZZY/"SUX__VW_WUW7SU8K_V7KWU8#YVDK0G]\FGM^HJ-@$!=8IA(*^,UU=.UT@[^_&gt;B_HI`4"`?$^0&gt;YT"^_D*-YQ`[:\K'6`J@_B]]'X7H8_NSDHY#&lt;&lt;LD(1!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
