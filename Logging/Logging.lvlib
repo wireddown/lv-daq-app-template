@@ -26,4 +26,5 @@
 	<Item Name="Logging Message Loop.vi" Type="VI" URL="../Logging Message Loop.vi"/>
 	<Item Name="On Start.vi" Type="VI" URL="../On Start.vi"/>
 	<Item Name="Log Data.vi" Type="VI" URL="../Log Data.vi"/>
+	<Item Name="On Stop.vi" Type="VI" URL="../On Stop.vi"/>
 </Library>
