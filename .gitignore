@@ -1,8 +1,10 @@
 # Local LabVIEW metadata files
 *.lvlps
 *.aliases
+*.builds
 
 # Project files
 daq_diagnostics_log.txt
-data_log.csv
+data_log*.csv
 NewSettings.xml
+Settings.xml.bak
