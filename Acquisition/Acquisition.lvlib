@@ -17,6 +17,8 @@
 		<Item Name="Hardware Configuration.ctl" Type="VI" URL="../Hardware Configuration.ctl"/>
 		<Item Name="IO Device.ctl" Type="VI" URL="../IO Device.ctl"/>
 		<Item Name="Error Handler - Acquisition Message Loop.vi" Type="VI" URL="../Error Handler - Acquisition Message Loop.vi"/>
+		<Item Name="Empty Channel Settings.vi" Type="VI" URL="../Empty Channel Settings.vi"/>
+		<Item Name="Empty Hardware Configuration.vi" Type="VI" URL="../Empty Hardware Configuration.vi"/>
 	</Item>
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
 	<Item Name="On Start.vi" Type="VI" URL="../On Start.vi"/>

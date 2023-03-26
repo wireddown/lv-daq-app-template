@@ -12,6 +12,7 @@
 	<Item Name="support" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Settings.ctl" Type="VI" URL="../Settings.ctl"/>
+		<Item Name="Empty Settings.vi" Type="VI" URL="../Empty Settings.vi"/>
 		<Item Name="Get Config File Path.vi" Type="VI" URL="../Get Config File Path.vi"/>
 		<Item Name="Regenerate Settings.vi" Type="VI" URL="../Regenerate Settings.vi"/>
 		<Item Name="Data Log Overwrite Warning.vi" Type="VI" URL="../Data Log Overwrite Warning.vi"/>
