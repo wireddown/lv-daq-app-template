@@ -11,6 +11,6 @@
 
 </Property>
 	<Item Name="Create User Event - Stop.vi" Type="VI" URL="../Create User Event - Stop.vi"/>
-	<Item Name="Fire User Event - Stop.vi" Type="VI" URL="../Fire User Event - Stop.vi"/>
+	<Item Name="Invoke User Event - Stop.vi" Type="VI" URL="../Invoke User Event - Stop.vi"/>
 	<Item Name="Destroy User Event - Stop.vi" Type="VI" URL="../Destroy User Event - Stop.vi"/>
 </Library>

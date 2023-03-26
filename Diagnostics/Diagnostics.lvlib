@@ -17,9 +17,9 @@
 		<Item Name="Diagnostics State.ctl" Type="VI" URL="../Diagnostics State.ctl"/>
 		<Item Name="Diagnostics File Path.vi" Type="VI" URL="../Diagnostics File Path.vi"/>
 		<Item Name="Format File Entry.vi" Type="VI" URL="../Format File Entry.vi"/>
+		<Item Name="Error Handler - Diagnostics Message Loop.vi" Type="VI" URL="../Error Handler - Diagnostics Message Loop.vi"/>
 	</Item>
 	<Item Name="Diagnostics Message Loop.vi" Type="VI" URL="../Diagnostics Message Loop.vi"/>
-	<Item Name="Error Handler - Diagnostics Message Loop.vi" Type="VI" URL="../Error Handler - Diagnostics Message Loop.vi"/>
 	<Item Name="Initialize Diagnostics File.vi" Type="VI" URL="../Initialize Diagnostics File.vi"/>
 	<Item Name="Write Text (String).vi" Type="VI" URL="../Write Text (String).vi"/>
 	<Item Name="Write Text (Variant).vi" Type="VI" URL="../Write Text (Variant).vi"/>

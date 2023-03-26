@@ -13,17 +13,17 @@
 	<Item Name="spreadsheet" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Default CSV Path.vi" Type="VI" URL="../Default CSV Path.vi"/>
-		<Item Name="Configure Spreadsheet File.vi" Type="VI" URL="../Configure Spreadsheet File.vi"/>
-		<Item Name="Create Spreadsheet Header.vi" Type="VI" URL="../Create Spreadsheet Header.vi"/>
+		<Item Name="Format Spreadsheet Header.vi" Type="VI" URL="../Format Spreadsheet Header.vi"/>
 		<Item Name="Write Spreadsheet Message.vi" Type="VI" URL="../Write Spreadsheet Message.vi"/>
 		<Item Name="Flush Data to Log File.vi" Type="VI" URL="../Flush Data to Log File.vi"/>
 	</Item>
 	<Item Name="support" Type="Folder">
-		<Property Name="NI.SortType" Type="Int">0</Property>
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Logging Configuration.ctl" Type="VI" URL="../Logging Configuration.ctl"/>
 		<Item Name="Logging State.ctl" Type="VI" URL="../Logging State.ctl"/>
+		<Item Name="Error Handler - Logging Message Loop.vi" Type="VI" URL="../Error Handler - Logging Message Loop.vi"/>
 	</Item>
 	<Item Name="Logging Message Loop.vi" Type="VI" URL="../Logging Message Loop.vi"/>
-	<Item Name="Error Handler - Logging Message Loop.vi" Type="VI" URL="../Error Handler - Logging Message Loop.vi"/>
+	<Item Name="On Start.vi" Type="VI" URL="../On Start.vi"/>
 	<Item Name="Log Data.vi" Type="VI" URL="../Log Data.vi"/>
 </Library>

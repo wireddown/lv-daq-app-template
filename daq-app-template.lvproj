@@ -22,13 +22,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Project Documentation" Type="Folder">
-			<Item Name="Documentation Images" Type="Folder">
-				<Item Name="loc_continuous_measurement.png" Type="Document" URL="../documentation/loc_continuous_measurement.png"/>
-			</Item>
-			<Item Name="Continuous Measurement and Logging Documentation.html" Type="Document" URL="../documentation/Continuous Measurement and Logging Documentation.html"/>
-		</Item>
-		<Item Name="Support VIs" Type="Folder">
+		<Item Name="Main.vi Support" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Message Queue.lvlib" Type="Library" URL="../support/Message Queue/Message Queue.lvlib"/>
 			<Item Name="User Event - Stop.lvlib" Type="Library" URL="../support/User Event - Stop/User Event - Stop.lvlib"/>
@@ -37,6 +31,12 @@
 			<Item Name="Check Loop Error.vi" Type="VI" URL="../support/Check Loop Error.vi"/>
 			<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../support/Set Enable State on Multiple Controls.vi"/>
 			<Item Name="Set Visible State on Multiple Controls.vi" Type="VI" URL="../support/Set Visible State on Multiple Controls.vi"/>
+		</Item>
+		<Item Name="Project Documentation" Type="Folder">
+			<Item Name="Documentation Images" Type="Folder">
+				<Item Name="loc_continuous_measurement.png" Type="Document" URL="../documentation/loc_continuous_measurement.png"/>
+			</Item>
+			<Item Name="Continuous Measurement and Logging Documentation.html" Type="Document" URL="../documentation/Continuous Measurement and Logging Documentation.html"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">1</Property>
