@@ -92,7 +92,7 @@
 </DBL>
 <String>
 <Name>Calibration Formula</Name>
-<Val>y = (x-x0) / (Ve * CF)</Val>
+<Val>(x-x0) / (Ve * CF)</Val>
 </String>
 </Cluster>
 </Cluster>
@@ -178,7 +178,7 @@
 </DBL>
 <String>
 <Name>Calibration Formula</Name>
-<Val>y = (x-x0) / (Ve * CF)</Val>
+<Val>(x-x0) / (Ve * CF)</Val>
 </String>
 </Cluster>
 </Cluster>
@@ -229,7 +229,7 @@
 <NumElts>3</NumElts>
 <Path>
 <Name>Path</Name>
-<Val>C:\dev\mux\git\github\lv-daq-app-template\data_log_20230325_200453.csv</Val>
+<Val>C:\dev\mux\git\github\lv-daq-app-template\data_log.csv</Val>
 </Path>
 <Refnum>
 <Name>Spreadsheet</Name>
@@ -238,7 +238,7 @@
 </Refnum>
 <Boolean>
 <Name>Append</Name>
-<Val>0</Val>
+<Val>1</Val>
 </Boolean>
 </Cluster>
 <Cluster>
