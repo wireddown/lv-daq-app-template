@@ -53,6 +53,7 @@
 		<Item Name="Logging.lvlib" Type="Library" URL="../Logging/Logging.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Settings.lvlib" Type="Library" URL="../Settings/Settings.lvlib"/>
+		<Item Name="Settings.xml" Type="Document" URL="../Settings.xml"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
