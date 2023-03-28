@@ -20,11 +20,12 @@
 - Timing
   - software-timed intervals
   - one sample per interval
-  - on-demand while running
+  - intervals can be repeated and sequenced
+  - additional samples on-button-click while running
 - Logging
   - CSV format
   - create or overwrite log file
-  - append to to existing log file
+  - append to existing log file
 
 ## Data
 
@@ -41,7 +42,9 @@ timestamp,sim1,sim2,sim3,sim4
 11:17:48.025,1.9351,2.9626,4.0255,5.0332
 ```
 
-## Baseline
+## Changelog
+
+### Baseline
 
 LabVIEW sample project: Continuous Measurement and Logging
 
@@ -49,7 +52,7 @@ LabVIEW sample project: Continuous Measurement and Logging
 - NI site: https://www.ni.com/en-us/support/documentation/supplemental/21/using-a-queued-message-handler-in-labview.html
 - LV wiki: https://labviewwiki.org/wiki/Design_pattern
 
-## Changes
+### Changes
 
 - Make the root container for Aquired Data.ctl a cluster
 - Use typedefs in the data queues/notifiers rather than raw constants
