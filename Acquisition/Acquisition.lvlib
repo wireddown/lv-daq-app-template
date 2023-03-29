@@ -19,6 +19,9 @@
 		<Item Name="Error Handler - Acquisition Message Loop.vi" Type="VI" URL="../Error Handler - Acquisition Message Loop.vi"/>
 		<Item Name="Empty Channel Settings.vi" Type="VI" URL="../Empty Channel Settings.vi"/>
 		<Item Name="Empty Hardware Configuration.vi" Type="VI" URL="../Empty Hardware Configuration.vi"/>
+		<Item Name="Get Channel Names.vi" Type="VI" URL="../Get Channel Names.vi"/>
+		<Item Name="Generate One Sample.vi" Type="VI" URL="../Generate One Sample.vi"/>
+		<Item Name="Preview One Sample.vi" Type="VI" URL="../Preview One Sample.vi"/>
 	</Item>
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
 	<Item Name="On Start.vi" Type="VI" URL="../On Start.vi"/>
