@@ -21,5 +21,5 @@
 	</Item>
 	<Item Name="Did Interval Ellapse.vi" Type="VI" URL="../Did Interval Ellapse.vi"/>
 	<Item Name="Elapsed Time.vi" Type="VI" URL="../Elapsed Time.vi"/>
-	<Item Name="Next Interval.vi" Type="VI" URL="../Next Interval.vi"/>
+	<Item Name="Move Next Interval.vi" Type="VI" URL="../Move Next Interval.vi"/>
 </Library>
