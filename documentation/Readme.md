@@ -64,3 +64,4 @@ LabVIEW sample project: Continuous Measurement and Logging
 - Add Acquisition Status loop and countdown
 - Add multi-channel support
 - Implement data calibration
+- Implement per channel null-offset
