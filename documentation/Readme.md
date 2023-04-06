@@ -65,3 +65,4 @@ LabVIEW sample project: Continuous Measurement and Logging
 - Add multi-channel support
 - Implement data calibration
 - Implement per channel null-offset
+- Add log file path control to main UI
