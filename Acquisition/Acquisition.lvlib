@@ -29,7 +29,7 @@
 	</Item>
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
 	<Item Name="On Start.vi" Type="VI" URL="../On Start.vi"/>
-	<Item Name="Configure Hardware.vi" Type="VI" URL="../Configure Hardware.vi"/>
+	<Item Name="On Launch.vi" Type="VI" URL="../On Launch.vi"/>
 	<Item Name="Acquire.vi" Type="VI" URL="../Acquire.vi"/>
 	<Item Name="Generate Simulated Data.vi" Type="VI" URL="../Generate Simulated Data.vi"/>
 	<Item Name="Scale Data.vi" Type="VI" URL="../Scale Data.vi"/>
