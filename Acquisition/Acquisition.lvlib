@@ -26,6 +26,7 @@
 		<Item Name="Generate One Sample.vi" Type="VI" URL="../Generate One Sample.vi"/>
 		<Item Name="Preview One Sample.vi" Type="VI" URL="../Preview One Sample.vi"/>
 		<Item Name="Scale Channel.vi" Type="VI" URL="../Scale Channel.vi"/>
+		<Item Name="Probe - SysAPI.vi" Type="VI" URL="../Probe - SysAPI.vi"/>
 		<Item Name="Host Software Package.ctl" Type="VI" URL="../Host Software Package.ctl"/>
 		<Item Name="Empty Host Software Package.vi" Type="VI" URL="../Empty Host Software Package.vi"/>
 		<Item Name="Host Resources.ctl" Type="VI" URL="../Host Resources.ctl"/>
