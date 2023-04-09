@@ -26,10 +26,16 @@
 		<Item Name="Generate One Sample.vi" Type="VI" URL="../Generate One Sample.vi"/>
 		<Item Name="Preview One Sample.vi" Type="VI" URL="../Preview One Sample.vi"/>
 		<Item Name="Scale Channel.vi" Type="VI" URL="../Scale Channel.vi"/>
+		<Item Name="Host Software Package.ctl" Type="VI" URL="../Host Software Package.ctl"/>
+		<Item Name="Empty Host Software Package.vi" Type="VI" URL="../Empty Host Software Package.vi"/>
+		<Item Name="Host Resources.ctl" Type="VI" URL="../Host Resources.ctl"/>
+		<Item Name="Empty Host Resources.vi" Type="VI" URL="../Empty Host Resources.vi"/>
+		<Item Name="Host IO Resource.ctl" Type="VI" URL="../Host IO Resource.ctl"/>
+		<Item Name="Empty Host IO Resource.vi" Type="VI" URL="../Empty Host IO Resource.vi"/>
 	</Item>
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
-	<Item Name="On Start.vi" Type="VI" URL="../On Start.vi"/>
 	<Item Name="On Launch.vi" Type="VI" URL="../On Launch.vi"/>
+	<Item Name="On Start.vi" Type="VI" URL="../On Start.vi"/>
 	<Item Name="Acquire.vi" Type="VI" URL="../Acquire.vi"/>
 	<Item Name="Generate Simulated Data.vi" Type="VI" URL="../Generate Simulated Data.vi"/>
 	<Item Name="Scale Data.vi" Type="VI" URL="../Scale Data.vi"/>
