@@ -35,6 +35,7 @@
 		<Item Name="Empty Host Software Package.vi" Type="VI" URL="../Empty Host Software Package.vi"/>
 		<Item Name="Empty Host IO Resource.vi" Type="VI" URL="../Empty Host IO Resource.vi"/>
 		<Item Name="Probe - SysAPI.vi" Type="VI" URL="../Probe - SysAPI.vi"/>
+		<Item Name="Process Discovered Resources.vi" Type="VI" URL="../Process Discovered Resources.vi"/>
 	</Item>
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
 	<Item Name="On Launch.vi" Type="VI" URL="../On Launch.vi"/>
