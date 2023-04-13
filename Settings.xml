@@ -9,13 +9,13 @@
 <NumElts>3</NumElts>
 <Array>
 <Name>Channel Settings</Name>
-<Dimsize>4</Dimsize>
+<Dimsize>5</Dimsize>
 <Cluster>
 <Name>Channel Settings</Name>
 <NumElts>3</NumElts>
 <String>
 <Name>Name</Name>
-<Val>sim1</Val>
+<Val>sim1 (psi)</Val>
 </String>
 <Cluster>
 <Name>Terminal Information</Name>
@@ -58,7 +58,7 @@
 <NumElts>3</NumElts>
 <String>
 <Name>Name</Name>
-<Val>sim2</Val>
+<Val>sim2 (lbs)</Val>
 </String>
 <Cluster>
 <Name>Terminal Information</Name>
@@ -101,7 +101,7 @@
 <NumElts>3</NumElts>
 <String>
 <Name>Name</Name>
-<Val>sim3</Val>
+<Val>sim3 (in)</Val>
 </String>
 <Cluster>
 <Name>Terminal Information</Name>
@@ -144,7 +144,7 @@
 <NumElts>3</NumElts>
 <String>
 <Name>Name</Name>
-<Val>sim4</Val>
+<Val>sim4 (in)</Val>
 </String>
 <Cluster>
 <Name>Terminal Information</Name>
@@ -159,6 +159,49 @@
 <I32>
 <Name>Channel Number</Name>
 <Val>3</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Calibration Information</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>Excitation Voltage</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Calibration Factor</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Zero Value</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<String>
+<Name>Calibration Formula</Name>
+<Val>(x-x0) / (Ve * CF)</Val>
+</String>
+</Cluster>
+</Cluster>
+<Cluster>
+<Name>Channel Settings</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Name</Name>
+<Val>sim5 (V)</Val>
+</String>
+<Cluster>
+<Name>Terminal Information</Name>
+<NumElts>2</NumElts>
+<EW>
+<Name>IO Device</Name>
+<Choice>none</Choice>
+<Choice>9219</Choice>
+<Choice>9401</Choice>
+<Val>0</Val>
+</EW>
+<I32>
+<Name>Channel Number</Name>
+<Val>4</Val>
 </I32>
 </Cluster>
 <Cluster>
@@ -236,10 +279,13 @@
 <RefKind>Byte Stream File</RefKind>
 <Val>0x00000000</Val>
 </Refnum>
-<Boolean>
-<Name>Append</Name>
-<Val>1</Val>
-</Boolean>
+<EW>
+<Name>Mode</Name>
+<Choice>Overwrite</Choice>
+<Choice>Append</Choice>
+<Choice>Create New</Choice>
+<Val>2</Val>
+</EW>
 </Cluster>
 <Cluster>
 <Name>Debug</Name>

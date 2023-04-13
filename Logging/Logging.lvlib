@@ -20,8 +20,14 @@
 	<Item Name="support" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Logging Configuration.ctl" Type="VI" URL="../Logging Configuration.ctl"/>
+		<Item Name="Logging Mode.ctl" Type="VI" URL="../Logging Mode.ctl"/>
 		<Item Name="Logging State.ctl" Type="VI" URL="../Logging State.ctl"/>
 		<Item Name="Error Handler - Logging Message Loop.vi" Type="VI" URL="../Error Handler - Logging Message Loop.vi"/>
+		<Item Name="Empty Logging Configuration.vi" Type="VI" URL="../Empty Logging Configuration.vi"/>
+		<Item Name="Add Modifier to File Name.vi" Type="VI" URL="../Add Modifier to File Name.vi"/>
+		<Item Name="Add Timestamp to File Name.vi" Type="VI" URL="../Add Timestamp to File Name.vi"/>
+		<Item Name="Get Timestamp Format String.vi" Type="VI" URL="../Get Timestamp Format String.vi"/>
+		<Item Name="Log File Name for Mode.vi" Type="VI" URL="../Log File Name for Mode.vi"/>
 	</Item>
 	<Item Name="Logging Message Loop.vi" Type="VI" URL="../Logging Message Loop.vi"/>
 	<Item Name="On Start.vi" Type="VI" URL="../On Start.vi"/>
