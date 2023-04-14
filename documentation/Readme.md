@@ -56,7 +56,7 @@ LabVIEW sample project: Continuous Measurement and Logging
 
 - Make the root container for Aquired Data.ctl a cluster
 - Use typedefs in the data queues/notifiers rather than raw constants
-- Add new-log/append-log tab control to Settings Dialog
+- Add overwrite-log/append-log/timestamp-log tab control to Settings Dialog
 - Switch to spreadsheet log format
 - Add Diagnostics subsystem loop
 - Add Interval Timer subsystem
