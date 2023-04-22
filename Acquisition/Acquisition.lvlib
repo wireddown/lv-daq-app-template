@@ -13,10 +13,12 @@
 	<Item Name="support" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Acquisition State.ctl" Type="VI" URL="../Acquisition State.ctl"/>
+		<Item Name="Acquired Data.ctl" Type="VI" URL="../Acquired Data.ctl"/>
 		<Item Name="Channel Settings.ctl" Type="VI" URL="../Channel Settings.ctl"/>
 		<Item Name="Hardware Configuration.ctl" Type="VI" URL="../Hardware Configuration.ctl"/>
 		<Item Name="IO Device.ctl" Type="VI" URL="../IO Device.ctl"/>
 		<Item Name="Error Handler - Acquisition Message Loop.vi" Type="VI" URL="../Error Handler - Acquisition Message Loop.vi"/>
+		<Item Name="Empty Acquired Data.vi" Type="VI" URL="../Empty Acquired Data.vi"/>
 		<Item Name="Empty Channel Settings.vi" Type="VI" URL="../Empty Channel Settings.vi"/>
 		<Item Name="Empty Hardware Configuration.vi" Type="VI" URL="../Empty Hardware Configuration.vi"/>
 		<Item Name="Get Channel Names.vi" Type="VI" URL="../Get Channel Names.vi"/>
