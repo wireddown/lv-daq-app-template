@@ -14,6 +14,8 @@
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Default CSV Path.vi" Type="VI" URL="../Default CSV Path.vi"/>
 		<Item Name="Format Spreadsheet Header.vi" Type="VI" URL="../Format Spreadsheet Header.vi"/>
+		<Item Name="Get LV Timestamp Format String.vi" Type="VI" URL="../Get LV Timestamp Format String.vi"/>
+		<Item Name="Fix LV Timestamp String.vi" Type="VI" URL="../Fix LV Timestamp String.vi"/>
 		<Item Name="Write Spreadsheet Message.vi" Type="VI" URL="../Write Spreadsheet Message.vi"/>
 		<Item Name="Flush Data to Log File.vi" Type="VI" URL="../Flush Data to Log File.vi"/>
 	</Item>
@@ -26,7 +28,7 @@
 		<Item Name="Empty Logging Configuration.vi" Type="VI" URL="../Empty Logging Configuration.vi"/>
 		<Item Name="Add Modifier to File Name.vi" Type="VI" URL="../Add Modifier to File Name.vi"/>
 		<Item Name="Add Timestamp to File Name.vi" Type="VI" URL="../Add Timestamp to File Name.vi"/>
-		<Item Name="Get Timestamp Format String.vi" Type="VI" URL="../Get Timestamp Format String.vi"/>
+		<Item Name="Get Timestamp Filename String.vi" Type="VI" URL="../Get Timestamp Filename String.vi"/>
 		<Item Name="Log File Name for Mode.vi" Type="VI" URL="../Log File Name for Mode.vi"/>
 	</Item>
 	<Item Name="Logging Message Loop.vi" Type="VI" URL="../Logging Message Loop.vi"/>
