@@ -66,7 +66,7 @@ axes = data.plot.line(x="timestamp")
 > 4 2023-04-21 17:50:35.010000-07:00      1.5566      2.6916     3.6978     4.6876    5.6777
 > ```
 >
-> ![data log plots](./data_log_plots.png)
+> ![data log plots](./data_log%20plots.png)
 
 ## Changelog
 

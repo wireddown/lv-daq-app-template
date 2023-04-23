@@ -37,6 +37,7 @@
 		</Item>
 		<Item Name="Project Documentation" Type="Folder">
 			<Item Name="Documentation Images" Type="Folder">
+				<Item Name="data_log plots.png" Type="Document" URL="../documentation/data_log plots.png"/>
 				<Item Name="Main UI.gif" Type="Document" URL="../documentation/Main UI.gif"/>
 			</Item>
 			<Item Name="Readme.md" Type="Document" URL="../documentation/Readme.md"/>
