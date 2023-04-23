@@ -39,11 +39,15 @@
 		<Item Name="Probe - SysAPI.vi" Type="VI" URL="../Probe - SysAPI.vi"/>
 		<Item Name="Process Discovered Resources.vi" Type="VI" URL="../Process Discovered Resources.vi"/>
 	</Item>
+	<Item Name="io" Type="Folder">
+		<Item Name="Noop API Conpane.vi" Type="VI" URL="../Noop API Conpane.vi"/>
+		<Item Name="Call API By Path.vi" Type="VI" URL="../Call API By Path.vi"/>
+		<Item Name="Simulate Acquired Data.vi" Type="VI" URL="../Simulate Acquired Data.vi"/>
+	</Item>
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
 	<Item Name="On Launch.vi" Type="VI" URL="../On Launch.vi"/>
 	<Item Name="On Start.vi" Type="VI" URL="../On Start.vi"/>
 	<Item Name="Acquire.vi" Type="VI" URL="../Acquire.vi"/>
-	<Item Name="Generate Simulated Data.vi" Type="VI" URL="../Generate Simulated Data.vi"/>
 	<Item Name="Scale Data.vi" Type="VI" URL="../Scale Data.vi"/>
 	<Item Name="On Stop.vi" Type="VI" URL="../On Stop.vi"/>
 </Library>
