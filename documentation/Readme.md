@@ -33,7 +33,7 @@
 
 ## Data
 
-These snippets are from the example [Jupyter notebook](.\documentation\data_log%20notebook.ipynb).
+These snippets are from the example [Jupyter notebook](./data_log%20notebook.ipynb).
 
 ```csv
 datetime,2023-04-23T16:26:50.791-07:00
