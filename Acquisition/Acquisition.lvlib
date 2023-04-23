@@ -41,6 +41,7 @@
 		<Item Name="Probe - SysAPI.vi" Type="VI" URL="../Probe - SysAPI.vi"/>
 		<Item Name="Process Discovered Resources.vi" Type="VI" URL="../Process Discovered Resources.vi"/>
 		<Item Name="Search for NI Package.vi" Type="VI" URL="../Search for NI Package.vi"/>
+		<Item Name="Search for IO Support.vi" Type="VI" URL="../Search for IO Support.vi"/>
 	</Item>
 	<Item Name="io" Type="Folder">
 		<Item Name="Noop API Conpane.vi" Type="VI" URL="../Noop API Conpane.vi"/>
