@@ -16,6 +16,7 @@
 		<Item Name="Acquired Data.ctl" Type="VI" URL="../Acquired Data.ctl"/>
 		<Item Name="Channel Settings.ctl" Type="VI" URL="../Channel Settings.ctl"/>
 		<Item Name="Hardware Configuration.ctl" Type="VI" URL="../Hardware Configuration.ctl"/>
+		<Item Name="IO API.ctl" Type="VI" URL="../IO API.ctl"/>
 		<Item Name="IO Device.ctl" Type="VI" URL="../IO Device.ctl"/>
 		<Item Name="Error Handler - Acquisition Message Loop.vi" Type="VI" URL="../Error Handler - Acquisition Message Loop.vi"/>
 		<Item Name="Empty Acquired Data.vi" Type="VI" URL="../Empty Acquired Data.vi"/>

@@ -6,7 +6,7 @@
 <NumElts>3</NumElts>
 <Cluster>
 <Name>IO</Name>
-<NumElts>3</NumElts>
+<NumElts>4</NumElts>
 <Array>
 <Name>Channel Settings</Name>
 <Dimsize>5</Dimsize>
@@ -266,6 +266,12 @@
 <Val>0</Val>
 </I32>
 </Cluster>
+<EW>
+<Name>API</Name>
+<Choice>Simulated</Choice>
+<Choice>DAQmx</Choice>
+<Val>0</Val>
+</EW>
 </Cluster>
 <Cluster>
 <Name>Log</Name>
