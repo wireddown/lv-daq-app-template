@@ -19,7 +19,7 @@
 		<Item Name="Test Elapsed Time.vi" Type="VI" URL="../Test Elapsed Time.vi"/>
 		<Item Name="Test Next Interval.vi" Type="VI" URL="../Test Next Interval.vi"/>
 	</Item>
-	<Item Name="Did Interval Ellapse.vi" Type="VI" URL="../Did Interval Ellapse.vi"/>
+	<Item Name="Did Interval Elapse.vi" Type="VI" URL="../Did Interval Elapse.vi"/>
 	<Item Name="Elapsed Time.vi" Type="VI" URL="../Elapsed Time.vi"/>
 	<Item Name="Move Next Interval.vi" Type="VI" URL="../Move Next Interval.vi"/>
 </Library>
