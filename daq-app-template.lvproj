@@ -40,6 +40,7 @@
 				<Item Name="data_log plots.png" Type="Document" URL="../documentation/data_log plots.png"/>
 				<Item Name="Main UI.gif" Type="Document" URL="../documentation/Main UI.gif"/>
 			</Item>
+			<Item Name="data_log notebook.ipynb" Type="Document" URL="../documentation/data_log notebook.ipynb"/>
 			<Item Name="Readme.md" Type="Document" URL="../documentation/Readme.md"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
