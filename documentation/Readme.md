@@ -94,3 +94,4 @@ LabVIEW sample project: Continuous Measurement and Logging
 - Implement per channel null-offset
 - Add log file path control to main UI
 - Detect software and hardware resources on host system
+- Add dynamic DAQmx API detection and use
