@@ -33,6 +33,7 @@
 			<Item Name="Set Visible State on Multiple Controls.vi" Type="VI" URL="../support/Set Visible State on Multiple Controls.vi"/>
 			<Item Name="Update Settings button colors.vi" Type="VI" URL="../support/Update Settings button colors.vi"/>
 			<Item Name="Set Plot Count.vi" Type="VI" URL="../support/Set Plot Count.vi"/>
+			<Item Name="Override Saved Settings.vi" Type="VI" URL="../support/Override Saved Settings.vi"/>
 		</Item>
 		<Item Name="Project Documentation" Type="Folder">
 			<Item Name="Documentation Images" Type="Folder">
