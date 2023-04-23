@@ -82,6 +82,7 @@ LabVIEW sample project: Continuous Measurement and Logging
 
 - Make the root container for Aquired Data.ctl a cluster
 - Use typedefs in the data queues/notifiers rather than raw constants
+- Add 'Exit' user-action to main UI error handler
 - Add overwrite-log/append-log/timestamp-log tab control to Settings Dialog
 - Switch to spreadsheet log format
 - Add Diagnostics subsystem loop
@@ -93,3 +94,4 @@ LabVIEW sample project: Continuous Measurement and Logging
 - Implement per channel null-offset
 - Add log file path control to main UI
 - Detect software and hardware resources on host system
+- Add dynamic DAQmx API detection and use

@@ -13,10 +13,14 @@
 	<Item Name="support" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Acquisition State.ctl" Type="VI" URL="../Acquisition State.ctl"/>
+		<Item Name="Acquired Data.ctl" Type="VI" URL="../Acquired Data.ctl"/>
 		<Item Name="Channel Settings.ctl" Type="VI" URL="../Channel Settings.ctl"/>
 		<Item Name="Hardware Configuration.ctl" Type="VI" URL="../Hardware Configuration.ctl"/>
+		<Item Name="API Call.ctl" Type="VI" URL="../API Call.ctl"/>
+		<Item Name="IO API.ctl" Type="VI" URL="../IO API.ctl"/>
 		<Item Name="IO Device.ctl" Type="VI" URL="../IO Device.ctl"/>
 		<Item Name="Error Handler - Acquisition Message Loop.vi" Type="VI" URL="../Error Handler - Acquisition Message Loop.vi"/>
+		<Item Name="Empty Acquired Data.vi" Type="VI" URL="../Empty Acquired Data.vi"/>
 		<Item Name="Empty Channel Settings.vi" Type="VI" URL="../Empty Channel Settings.vi"/>
 		<Item Name="Empty Hardware Configuration.vi" Type="VI" URL="../Empty Hardware Configuration.vi"/>
 		<Item Name="Get Channel Names.vi" Type="VI" URL="../Get Channel Names.vi"/>
@@ -36,12 +40,19 @@
 		<Item Name="Empty Host IO Resource.vi" Type="VI" URL="../Empty Host IO Resource.vi"/>
 		<Item Name="Probe - SysAPI.vi" Type="VI" URL="../Probe - SysAPI.vi"/>
 		<Item Name="Process Discovered Resources.vi" Type="VI" URL="../Process Discovered Resources.vi"/>
+		<Item Name="Search for NI Package.vi" Type="VI" URL="../Search for NI Package.vi"/>
+		<Item Name="Search for IO Support.vi" Type="VI" URL="../Search for IO Support.vi"/>
+	</Item>
+	<Item Name="io" Type="Folder">
+		<Item Name="Noop API Conpane.vi" Type="VI" URL="../Noop API Conpane.vi"/>
+		<Item Name="Call API By Path.vi" Type="VI" URL="../Call API By Path.vi"/>
+		<Item Name="Simulate Acquired Data.vi" Type="VI" URL="../Simulate Acquired Data.vi"/>
+		<Item Name="Get VI Name for API Call.vi" Type="VI" URL="../Get VI Name for API Call.vi"/>
 	</Item>
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
 	<Item Name="On Launch.vi" Type="VI" URL="../On Launch.vi"/>
 	<Item Name="On Start.vi" Type="VI" URL="../On Start.vi"/>
 	<Item Name="Acquire.vi" Type="VI" URL="../Acquire.vi"/>
-	<Item Name="Generate Simulated Data.vi" Type="VI" URL="../Generate Simulated Data.vi"/>
 	<Item Name="Scale Data.vi" Type="VI" URL="../Scale Data.vi"/>
 	<Item Name="On Stop.vi" Type="VI" URL="../On Stop.vi"/>
 </Library>
