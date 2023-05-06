@@ -48,6 +48,7 @@
 		<Item Name="Call API By Path.vi" Type="VI" URL="../Call API By Path.vi"/>
 		<Item Name="Simulate Acquired Data.vi" Type="VI" URL="../Simulate Acquired Data.vi"/>
 		<Item Name="Get VI Name for API Call.vi" Type="VI" URL="../Get VI Name for API Call.vi"/>
+		<Item Name="Build API Map.vi" Type="VI" URL="../Build API Map.vi"/>
 	</Item>
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
 	<Item Name="On Launch.vi" Type="VI" URL="../On Launch.vi"/>
