@@ -25,6 +25,7 @@
 		<Item Name="Update Calibration Settings (Array).vi" Type="VI" URL="../Update Calibration Settings (Array).vi"/>
 		<Item Name="Get Channel Settings.vi" Type="VI" URL="../Get Channel Settings.vi"/>
 		<Item Name="Get Channel Settings (Array).vi" Type="VI" URL="../Get Channel Settings (Array).vi"/>
+		<Item Name="Process New Channels.vi" Type="VI" URL="../Process New Channels.vi"/>
 		<Item Name="Update Channel Settings.vi" Type="VI" URL="../Update Channel Settings.vi"/>
 		<Item Name="Update Channel Settings (Array).vi" Type="VI" URL="../Update Channel Settings (Array).vi"/>
 	</Item>
