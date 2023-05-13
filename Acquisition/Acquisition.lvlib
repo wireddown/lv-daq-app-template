@@ -27,6 +27,7 @@
 		<Item Name="Get Channel Names.vi" Type="VI" URL="../Get Channel Names.vi"/>
 		<Item Name="Get Calibration Coefficients.vi" Type="VI" URL="../Get Calibration Coefficients.vi"/>
 		<Item Name="Set Calibration Coefficients.vi" Type="VI" URL="../Set Calibration Coefficients.vi"/>
+		<Item Name="New Channel from Term Info.vi" Type="VI" URL="../New Channel from Term Info.vi"/>
 		<Item Name="Get Sample.vi" Type="VI" URL="../Get Sample.vi"/>
 		<Item Name="Generate One Sample.vi" Type="VI" URL="../Generate One Sample.vi"/>
 		<Item Name="Preview One Sample.vi" Type="VI" URL="../Preview One Sample.vi"/>
