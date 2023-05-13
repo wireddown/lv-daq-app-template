@@ -16,6 +16,7 @@
 		<Item Name="Acquired Data.ctl" Type="VI" URL="../Acquired Data.ctl"/>
 		<Item Name="Channel Settings.ctl" Type="VI" URL="../Channel Settings.ctl"/>
 		<Item Name="Hardware Configuration.ctl" Type="VI" URL="../Hardware Configuration.ctl"/>
+		<Item Name="Sensor Type.ctl" Type="VI" URL="../Sensor Type.ctl"/>
 		<Item Name="API Call.ctl" Type="VI" URL="../API Call.ctl"/>
 		<Item Name="IO API.ctl" Type="VI" URL="../IO API.ctl"/>
 		<Item Name="IO Device.ctl" Type="VI" URL="../IO Device.ctl"/>
@@ -26,6 +27,7 @@
 		<Item Name="Get Channel Names.vi" Type="VI" URL="../Get Channel Names.vi"/>
 		<Item Name="Get Calibration Coefficients.vi" Type="VI" URL="../Get Calibration Coefficients.vi"/>
 		<Item Name="Set Calibration Coefficients.vi" Type="VI" URL="../Set Calibration Coefficients.vi"/>
+		<Item Name="New Channel from Term Info.vi" Type="VI" URL="../New Channel from Term Info.vi"/>
 		<Item Name="Get Sample.vi" Type="VI" URL="../Get Sample.vi"/>
 		<Item Name="Generate One Sample.vi" Type="VI" URL="../Generate One Sample.vi"/>
 		<Item Name="Preview One Sample.vi" Type="VI" URL="../Preview One Sample.vi"/>
