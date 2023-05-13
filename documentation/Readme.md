@@ -18,13 +18,16 @@
   - device
   - sensor
   - calibration
+  - scaled data
 - Timing
   - software-timed intervals
   - one sample per interval
   - intervals can be repeated and sequenced
   - additional samples on-button-click while running
 - Logging
+  - unscaled data
   - CSV format
+    - sensor count
     - starting datetime
     - sensor table with rows of calibration coefficients
     - data table with rows of unscaled data samples
@@ -64,15 +67,16 @@ import pandas as pd
 data = pd.read_csv(
     "data_log.csv",
     header=6,
+    index_col="timestamp",
     parse_dates=["timestamp"],
 )
 
 print(f"shape{data.shape}")
-axes = data.plot.line(x="timestamp")
+axes = data.plot.line()
 ```
 
 > ```
-> data.shape(181, 4)
+> data.shape(181, 3)
 > ```
 >
 > ![data log plots](./data_log%20plots.png)
@@ -101,6 +105,7 @@ LabVIEW sample project: Continuous Measurement and Logging
 - Add multi-channel support
 - Implement data calibration
 - Implement per channel null-offset
+- Plot scaled data, log unscaled data
 - Add log file path control to main UI
 - Detect software and hardware resources on host system
 - Add dynamic DAQmx API detection and use
