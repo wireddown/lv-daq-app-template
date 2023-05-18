@@ -13,12 +13,15 @@
 
 ## Configuration
 
-- Plots
+- Channels
   - name
   - device
   - sensor
   - calibration
-  - scaled data
+- Graph
+  - plot scaled data
+  - small range Y axis
+  - large range Y axis
 - Timing
   - software-timed intervals
   - one sample per interval
@@ -106,6 +109,7 @@ LabVIEW sample project: Continuous Measurement and Logging
 - Implement data calibration
 - Implement per channel null-offset
 - Plot scaled data, log unscaled data
+- Add axis settings to Settings Dialog
 - Add log file path control to main UI
 - Detect software and hardware resources on host system
 - Add dynamic DAQmx API detection and use

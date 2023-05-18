@@ -3,7 +3,7 @@
 <Version>21.0.1f2</Version>
 <Cluster>
 <Name>Settings</Name>
-<NumElts>3</NumElts>
+<NumElts>4</NumElts>
 <Cluster>
 <Name>IO</Name>
 <NumElts>4</NumElts>
@@ -116,7 +116,7 @@
 </String>
 <String>
 <Name>Units</Name>
-<Val>mm</Val>
+<Val>V</Val>
 </String>
 </Cluster>
 </Cluster>
@@ -139,7 +139,7 @@
 </EW>
 <I32>
 <Name>Channel</Name>
-<Val>2</Val>
+<Val>0</Val>
 </I32>
 <EW>
 <Name>Sensor Type</Name>
@@ -251,6 +251,22 @@
 <RefKind>Byte Stream File</RefKind>
 <Val>0x00000000</Val>
 </Refnum>
+</Cluster>
+<Cluster>
+<Name>Graph Settings</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>Small Scale Max</Name>
+<Val>11.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Large Scale Max</Name>
+<Val>2500.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Large Scale Threshold</Name>
+<Val>10.50000000000000</Val>
+</DBL>
 </Cluster>
 </Cluster>
 </LVData>

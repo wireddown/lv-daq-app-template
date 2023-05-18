@@ -31,8 +31,12 @@
 			<Item Name="Check Loop Error.vi" Type="VI" URL="../support/Check Loop Error.vi"/>
 			<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../support/Set Enable State on Multiple Controls.vi"/>
 			<Item Name="Set Visible State on Multiple Controls.vi" Type="VI" URL="../support/Set Visible State on Multiple Controls.vi"/>
+			<Item Name="Reset UI Colors.vi" Type="VI" URL="../support/Reset UI Colors.vi"/>
+			<Item Name="Apply Settings.vi" Type="VI" URL="../support/Apply Settings.vi"/>
 			<Item Name="Update Settings button colors.vi" Type="VI" URL="../support/Update Settings button colors.vi"/>
 			<Item Name="Set Plot Count.vi" Type="VI" URL="../support/Set Plot Count.vi"/>
+			<Item Name="Reset Graph Axes.vi" Type="VI" URL="../support/Reset Graph Axes.vi"/>
+			<Item Name="Set Plot Axis.vi" Type="VI" URL="../support/Set Plot Axis.vi"/>
 			<Item Name="Override Saved Settings.vi" Type="VI" URL="../support/Override Saved Settings.vi"/>
 		</Item>
 		<Item Name="Project Documentation" Type="Folder">
@@ -46,6 +50,7 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">1</Property>
 			<Item Name="Acquisition Status.ctl" Type="VI" URL="../controls/Acquisition Status.ctl"/>
+			<Item Name="Graph Settings.ctl" Type="VI" URL="../controls/Graph Settings.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 			<Item Name="UI State.ctl" Type="VI" URL="../controls/UI State.ctl"/>
 		</Item>
