@@ -31,6 +31,8 @@
 			<Item Name="Check Loop Error.vi" Type="VI" URL="../support/Check Loop Error.vi"/>
 			<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../support/Set Enable State on Multiple Controls.vi"/>
 			<Item Name="Set Visible State on Multiple Controls.vi" Type="VI" URL="../support/Set Visible State on Multiple Controls.vi"/>
+			<Item Name="Reset UI Colors.vi" Type="VI" URL="../support/Reset UI Colors.vi"/>
+			<Item Name="Apply Settings.vi" Type="VI" URL="../support/Apply Settings.vi"/>
 			<Item Name="Update Settings button colors.vi" Type="VI" URL="../support/Update Settings button colors.vi"/>
 			<Item Name="Set Plot Count.vi" Type="VI" URL="../support/Set Plot Count.vi"/>
 			<Item Name="Reset Graph Axes.vi" Type="VI" URL="../support/Reset Graph Axes.vi"/>
