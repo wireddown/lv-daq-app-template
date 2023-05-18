@@ -48,6 +48,7 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">1</Property>
 			<Item Name="Acquisition Status.ctl" Type="VI" URL="../controls/Acquisition Status.ctl"/>
+			<Item Name="Graph Settings.ctl" Type="VI" URL="../controls/Graph Settings.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 			<Item Name="UI State.ctl" Type="VI" URL="../controls/UI State.ctl"/>
 		</Item>
