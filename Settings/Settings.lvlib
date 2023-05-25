@@ -19,6 +19,9 @@
 		<Item Name="Regenerate Settings.vi" Type="VI" URL="../Regenerate Settings.vi"/>
 		<Item Name="Data Log Overwrite Warning.vi" Type="VI" URL="../Data Log Overwrite Warning.vi"/>
 		<Item Name="Update Log Path box colors.vi" Type="VI" URL="../Update Log Path box colors.vi"/>
+		<Item Name="Set Numeric Control Value (Array).vi" Type="VI" URL="../Set Numeric Control Value (Array).vi"/>
+		<Item Name="Select Preview Channel.vi" Type="VI" URL="../Select Preview Channel.vi"/>
+		<Item Name="Update Channel at Index.vi" Type="VI" URL="../Update Channel at Index.vi"/>
 		<Item Name="Get Calibration Settings.vi" Type="VI" URL="../Get Calibration Settings.vi"/>
 		<Item Name="Get Calibration Settings (Array).vi" Type="VI" URL="../Get Calibration Settings (Array).vi"/>
 		<Item Name="Update Calibration Settings.vi" Type="VI" URL="../Update Calibration Settings.vi"/>
