@@ -17,6 +17,7 @@
 		<Item Name="Channel Settings.ctl" Type="VI" URL="../Channel Settings.ctl"/>
 		<Item Name="Hardware Configuration.ctl" Type="VI" URL="../Hardware Configuration.ctl"/>
 		<Item Name="Sensor Type.ctl" Type="VI" URL="../Sensor Type.ctl"/>
+		<Item Name="IO Context.ctl" Type="VI" URL="../IO Context.ctl"/>
 		<Item Name="API Call.ctl" Type="VI" URL="../API Call.ctl"/>
 		<Item Name="IO API.ctl" Type="VI" URL="../IO API.ctl"/>
 		<Item Name="IO Device.ctl" Type="VI" URL="../IO Device.ctl"/>
