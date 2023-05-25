@@ -48,15 +48,18 @@
 	</Item>
 	<Item Name="io" Type="Folder">
 		<Item Name="Noop API Conpane.vi" Type="VI" URL="../Noop API Conpane.vi"/>
-		<Item Name="Call API By Path.vi" Type="VI" URL="../Call API By Path.vi"/>
 		<Item Name="Simulate Acquired Data.vi" Type="VI" URL="../Simulate Acquired Data.vi"/>
-		<Item Name="Get VI Name for API Call.vi" Type="VI" URL="../Get VI Name for API Call.vi"/>
+		<Item Name="Call API By Path.vi" Type="VI" URL="../Call API By Path.vi"/>
+		<Item Name="API Constants.vi" Type="VI" URL="../API Constants.vi"/>
 		<Item Name="Build API Map.vi" Type="VI" URL="../Build API Map.vi"/>
+		<Item Name="Get VI Name for API Call.vi" Type="VI" URL="../Get VI Name for API Call.vi"/>
+		<Item Name="Choose Active API.vi" Type="VI" URL="../Choose Active API.vi"/>
 	</Item>
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
 	<Item Name="On Launch.vi" Type="VI" URL="../On Launch.vi"/>
 	<Item Name="On Start.vi" Type="VI" URL="../On Start.vi"/>
 	<Item Name="Acquire.vi" Type="VI" URL="../Acquire.vi"/>
+	<Item Name="Average Waveforms.vi" Type="VI" URL="../Average Waveforms.vi"/>
 	<Item Name="Scale Data.vi" Type="VI" URL="../Scale Data.vi"/>
 	<Item Name="On Stop.vi" Type="VI" URL="../On Stop.vi"/>
 </Library>
