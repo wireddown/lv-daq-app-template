@@ -31,6 +31,7 @@
 		<Item Name="Process New Channels.vi" Type="VI" URL="../Process New Channels.vi"/>
 		<Item Name="Update Channel Settings.vi" Type="VI" URL="../Update Channel Settings.vi"/>
 		<Item Name="Update Channel Settings (Array).vi" Type="VI" URL="../Update Channel Settings (Array).vi"/>
+		<Item Name="Discover Plugins.vi" Type="VI" URL="../Discover Plugins.vi"/>
 	</Item>
 	<Item Name="Load Settings from XML.vi" Type="VI" URL="../Load Settings from XML.vi"/>
 	<Item Name="Save Settings to XML.vi" Type="VI" URL="../Save Settings to XML.vi"/>
