@@ -49,6 +49,7 @@
 	<Item Name="io" Type="Folder">
 		<Item Name="Noop API Conpane.vi" Type="VI" URL="../Noop API Conpane.vi"/>
 		<Item Name="Simulate Acquired Data.vi" Type="VI" URL="../Simulate Acquired Data.vi"/>
+		<Item Name="API Cache.vi" Type="VI" URL="../API Cache.vi"/>
 		<Item Name="Call API By Path.vi" Type="VI" URL="../Call API By Path.vi"/>
 		<Item Name="API Constants.vi" Type="VI" URL="../API Constants.vi"/>
 		<Item Name="Build API Map.vi" Type="VI" URL="../Build API Map.vi"/>
