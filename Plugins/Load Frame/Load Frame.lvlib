@@ -16,7 +16,7 @@
 		<Item Name="Update Task for Task Kind.vi" Type="VI" URL="../Update Task for Task Kind.vi"/>
 		<Item Name="Get DAQmx Wire.vi" Type="VI" URL="../Get DAQmx Wire.vi"/>
 		<Item Name="Set DAQmx Wire.vi" Type="VI" URL="../Set DAQmx Wire.vi"/>
-		<Item Name="Search IO Devices.vi" Type="VI" URL="../Search IO Devices.vi"/>
+		<Item Name="Make IO Devices Searchable.vi" Type="VI" URL="../Make IO Devices Searchable.vi"/>
 		<Item Name="Format Physical Channel.vi" Type="VI" URL="../Format Physical Channel.vi"/>
 	</Item>
 	<Item Name="io" Type="Folder">
