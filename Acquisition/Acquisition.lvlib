@@ -55,6 +55,11 @@
 		<Item Name="Get VI Name for API Call.vi" Type="VI" URL="../Get VI Name for API Call.vi"/>
 		<Item Name="Choose Active API.vi" Type="VI" URL="../Choose Active API.vi"/>
 	</Item>
+	<Item Name="api" Type="Folder">
+		<Item Name="Call Start.vi" Type="VI" URL="../Call Start.vi"/>
+		<Item Name="Call Acquire.vi" Type="VI" URL="../Call Acquire.vi"/>
+		<Item Name="Call Stop.vi" Type="VI" URL="../Call Stop.vi"/>
+	</Item>
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
 	<Item Name="On Launch.vi" Type="VI" URL="../On Launch.vi"/>
 	<Item Name="On Start.vi" Type="VI" URL="../On Start.vi"/>
