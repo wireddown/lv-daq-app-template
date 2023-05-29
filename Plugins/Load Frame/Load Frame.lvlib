@@ -33,11 +33,9 @@
 		<Item Name="Build DAQmx Settings.vi" Type="VI" URL="../Build DAQmx Settings.vi"/>
 		<Item Name="As NI Device.vi" Type="VI" URL="../As NI Device.vi"/>
 		<Item Name="As Task Kind.vi" Type="VI" URL="../As Task Kind.vi"/>
-		<Item Name="Get Task Kind for Preview Channel.vi" Type="VI" URL="../Get Task Kind for Preview Channel.vi"/>
 		<Item Name="Sort Channels by User.vi" Type="VI" URL="../Sort Channels by User.vi"/>
 	</Item>
 	<Item Name="Do Start.vi" Type="VI" URL="../Do Start.vi"/>
 	<Item Name="Do Acquire.vi" Type="VI" URL="../Do Acquire.vi"/>
 	<Item Name="Do Stop.vi" Type="VI" URL="../Do Stop.vi"/>
-	<Item Name="Do Preview.vi" Type="VI" URL="../Do Preview.vi"/>
 </Library>
