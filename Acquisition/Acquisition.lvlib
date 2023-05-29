@@ -31,7 +31,6 @@
 		<Item Name="New Channel from Term Info.vi" Type="VI" URL="../New Channel from Term Info.vi"/>
 		<Item Name="Get Sample.vi" Type="VI" URL="../Get Sample.vi"/>
 		<Item Name="Generate One Sample.vi" Type="VI" URL="../Generate One Sample.vi"/>
-		<Item Name="Preview One Sample.vi" Type="VI" URL="../Preview One Sample.vi"/>
 		<Item Name="Scale Channel.vi" Type="VI" URL="../Scale Channel.vi"/>
 	</Item>
 	<Item Name="discovery" Type="Folder">
