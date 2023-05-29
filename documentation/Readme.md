@@ -113,3 +113,4 @@ LabVIEW sample project: Continuous Measurement and Logging
 - Add log file path control to main UI
 - Detect software and hardware resources on host system
 - Add dynamic DAQmx API detection and use
+- Add plugin selection to Settings Dialog

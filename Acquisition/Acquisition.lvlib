@@ -17,6 +17,7 @@
 		<Item Name="Channel Settings.ctl" Type="VI" URL="../Channel Settings.ctl"/>
 		<Item Name="Hardware Configuration.ctl" Type="VI" URL="../Hardware Configuration.ctl"/>
 		<Item Name="Sensor Type.ctl" Type="VI" URL="../Sensor Type.ctl"/>
+		<Item Name="IO Context.ctl" Type="VI" URL="../IO Context.ctl"/>
 		<Item Name="API Call.ctl" Type="VI" URL="../API Call.ctl"/>
 		<Item Name="IO API.ctl" Type="VI" URL="../IO API.ctl"/>
 		<Item Name="IO Device.ctl" Type="VI" URL="../IO Device.ctl"/>
@@ -30,7 +31,6 @@
 		<Item Name="New Channel from Term Info.vi" Type="VI" URL="../New Channel from Term Info.vi"/>
 		<Item Name="Get Sample.vi" Type="VI" URL="../Get Sample.vi"/>
 		<Item Name="Generate One Sample.vi" Type="VI" URL="../Generate One Sample.vi"/>
-		<Item Name="Preview One Sample.vi" Type="VI" URL="../Preview One Sample.vi"/>
 		<Item Name="Scale Channel.vi" Type="VI" URL="../Scale Channel.vi"/>
 	</Item>
 	<Item Name="discovery" Type="Folder">
@@ -47,15 +47,23 @@
 	</Item>
 	<Item Name="io" Type="Folder">
 		<Item Name="Noop API Conpane.vi" Type="VI" URL="../Noop API Conpane.vi"/>
-		<Item Name="Call API By Path.vi" Type="VI" URL="../Call API By Path.vi"/>
 		<Item Name="Simulate Acquired Data.vi" Type="VI" URL="../Simulate Acquired Data.vi"/>
-		<Item Name="Get VI Name for API Call.vi" Type="VI" URL="../Get VI Name for API Call.vi"/>
+		<Item Name="API Cache.vi" Type="VI" URL="../API Cache.vi"/>
+		<Item Name="Call API By Path.vi" Type="VI" URL="../Call API By Path.vi"/>
 		<Item Name="Build API Map.vi" Type="VI" URL="../Build API Map.vi"/>
+		<Item Name="Get VI Name for API Call.vi" Type="VI" URL="../Get VI Name for API Call.vi"/>
+		<Item Name="Choose Active API.vi" Type="VI" URL="../Choose Active API.vi"/>
+	</Item>
+	<Item Name="api" Type="Folder">
+		<Item Name="Call Start.vi" Type="VI" URL="../Call Start.vi"/>
+		<Item Name="Call Acquire.vi" Type="VI" URL="../Call Acquire.vi"/>
+		<Item Name="Call Stop.vi" Type="VI" URL="../Call Stop.vi"/>
 	</Item>
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
 	<Item Name="On Launch.vi" Type="VI" URL="../On Launch.vi"/>
 	<Item Name="On Start.vi" Type="VI" URL="../On Start.vi"/>
-	<Item Name="Acquire.vi" Type="VI" URL="../Acquire.vi"/>
+	<Item Name="On Acquire.vi" Type="VI" URL="../On Acquire.vi"/>
+	<Item Name="Average Waveforms.vi" Type="VI" URL="../Average Waveforms.vi"/>
 	<Item Name="Scale Data.vi" Type="VI" URL="../Scale Data.vi"/>
 	<Item Name="On Stop.vi" Type="VI" URL="../On Stop.vi"/>
 </Library>
