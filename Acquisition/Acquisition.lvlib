@@ -58,7 +58,7 @@
 	<Item Name="Acquisition Message Loop.vi" Type="VI" URL="../Acquisition Message Loop.vi"/>
 	<Item Name="On Launch.vi" Type="VI" URL="../On Launch.vi"/>
 	<Item Name="On Start.vi" Type="VI" URL="../On Start.vi"/>
-	<Item Name="Acquire.vi" Type="VI" URL="../Acquire.vi"/>
+	<Item Name="On Acquire.vi" Type="VI" URL="../On Acquire.vi"/>
 	<Item Name="Average Waveforms.vi" Type="VI" URL="../Average Waveforms.vi"/>
 	<Item Name="Scale Data.vi" Type="VI" URL="../Scale Data.vi"/>
 	<Item Name="On Stop.vi" Type="VI" URL="../On Stop.vi"/>
